@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+/* fonte importada para o p3*/
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Palette+Mosaic&display=swap');
+/* fonte importada para o p4 e p5 */
+
+#p1{
+    font-family: fantasy;
+    font-size: 20px;
+}
+#p2{
+    font-family: courier;
+    font-size: 25px;
+}
+#p3{
+    font-family: 'Style Script', cursive;
+    font-size: 30px;
+}
+#p4{
+    font-family: 'Palette Mosaic', cursive;
+    font-size: 35px;
+}
+#p5{
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+}

@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Orbitron&display=swap');
+
+h1{
+    font-family: 'Amatic SC', cursive;  
+    text-align: center;
+    color: white;
+    font-style: oblique;
+}
+h1:hover{
+    text-shadow: 4px 4px 3px rgb(2, 2, 184);
+}
+p{
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+#img{
+    width: 450px;
+    height: 550px;
+    display: block;
+    margin: auto;
+}
+#img:hover{
+    box-shadow: 5px 5px 7px rgb(2, 2, 182);
+}
+body{
+    width: 900px;
+    background-color: black;
+    display: block;
+    margin: auto;
+}

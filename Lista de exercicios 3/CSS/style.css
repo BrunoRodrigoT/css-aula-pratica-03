@@ -1,0 +1,25 @@
+#paragrafo{
+    color: blue;
+    font-size: 12px;
+    letter-spacing: 0,3em;
+    word-spacing: 4px;
+    text-align: left;
+    font-family: Verdana;
+    text-indent: 25px;
+}
+.titulo{
+    color: red;
+    font-style: italic;
+    text-align: center;
+    word-spacing: 10px;
+}
+div{
+    color: pink;
+    width: 60%;
+    height: 400px;
+    font-family: Time New 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: right;
+    word-spacing: 6px;
+    background-color: coral;
+}

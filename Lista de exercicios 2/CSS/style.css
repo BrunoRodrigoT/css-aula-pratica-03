@@ -1,0 +1,28 @@
+#img{
+    width: 700px;
+    height: 500px;
+    display: block;
+    margin: auto;
+}
+.receita{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-style: italic
+}
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300&display=swap');
+/* fonte do texto */
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: red;
+}
+h1:hover{
+    text-shadow: 3px 3px 3px blue;
+}
+.titulos{
+    font-weight: bold;
+}
+.formulario{
+    font-family: courier;
+    font-style: italic;
+}
